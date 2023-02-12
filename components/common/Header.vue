@@ -1,5 +1,6 @@
 <template>
   <div class="header-wrap">HEADER WRAP</div>
+  <!-- menu / logo 준비 -->
 </template>
 
 <script setup lang="ts"></script>

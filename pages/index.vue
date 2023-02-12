@@ -1,7 +1,5 @@
 <template>
-  <!-- header, footer는 layout으로 잡아주기! -->
   <div>
-    <!-- header -->
     <!-- main banner -->
     <!-- promotion -->
     <!-- reward banner -->
@@ -9,7 +7,6 @@
     <!-- favorite banner -->
     <!-- magazine banner -->
     <!-- store banner -->
-    <!-- footer -->
   </div>
 </template>
 
