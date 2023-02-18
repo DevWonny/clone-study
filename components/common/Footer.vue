@@ -7,7 +7,7 @@
 <style scoped lang="scss">
 .footer-wrap {
   width: 100%;
-  height: 767px;
+  height: 604px;
   background: purple;
   color: #fff;
 }
